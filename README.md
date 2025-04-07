@@ -77,7 +77,7 @@ Predicted revenue = `Price × Predicted Demand`
   - `pandas`, `numpy` for data manipulation
   - `matplotlib`, `seaborn`, `plotly` for visualization
   - `scikit-learn` for machine learning
-- **Environment**: Jupyter Notebook
+- **Environment**: Google Colab
 
 
 
